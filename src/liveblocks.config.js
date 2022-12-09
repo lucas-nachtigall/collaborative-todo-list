@@ -1,6 +1,7 @@
 import { createClient } from "@liveblocks/client";
 import { createRoomContext } from "@liveblocks/react";
 
+
 const LIVEBLOCKS_API_KEY = process.env.REACT_APP_LIVEBLOCKS_PUBLIC_KEY;
 
 const client = createClient({
