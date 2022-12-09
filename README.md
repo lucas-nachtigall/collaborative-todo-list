@@ -1,4 +1,4 @@
-# Collaborative To Do List
+# Collaborative To Do List.
 
 ## About
 
